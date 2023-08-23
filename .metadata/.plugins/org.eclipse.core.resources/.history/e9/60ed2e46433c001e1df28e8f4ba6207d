@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package ejercicioGatoPkg;
+
+/**
+ * 
+ */
+public class EjercicioGato {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Gato miGato=new Gato();
+		miGato.maullar();
+
+		
+
+	}
+
+}
